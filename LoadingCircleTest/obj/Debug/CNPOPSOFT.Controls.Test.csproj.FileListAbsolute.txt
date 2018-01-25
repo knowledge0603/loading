@@ -1,0 +1,10 @@
+E:\down5\loading\LoadingCircleTest\bin\Debug\CNPOPSOFT.Controls.Test.exe
+E:\down5\loading\LoadingCircleTest\bin\Debug\CNPOPSOFT.Controls.Test.pdb
+E:\down5\loading\LoadingCircleTest\bin\Debug\CNPOPSOFT.Controls.dll
+E:\down5\loading\LoadingCircleTest\bin\Debug\CNPOPSOFT.Controls.pdb
+E:\down5\loading\LoadingCircleTest\obj\Debug\CNPOPSOFT.Controls.Test.csprojResolveAssemblyReference.cache
+E:\down5\loading\LoadingCircleTest\obj\Debug\CNPOPSOFT.Controls.frmMain.resources
+E:\down5\loading\LoadingCircleTest\obj\Debug\CNPOPSOFT.Controls.Test.csproj.GenerateResource.Cache
+E:\down5\loading\LoadingCircleTest\obj\Debug\CNPOPSOFT.Controls.Test.csproj.CoreCompileInputs.cache
+E:\down5\loading\LoadingCircleTest\obj\Debug\CNPOPSOFT.Controls.Test.exe
+E:\down5\loading\LoadingCircleTest\obj\Debug\CNPOPSOFT.Controls.Test.pdb

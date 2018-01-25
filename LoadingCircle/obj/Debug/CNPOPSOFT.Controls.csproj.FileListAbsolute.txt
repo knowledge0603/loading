@@ -1,0 +1,6 @@
+E:\down5\loading\LoadingCircle\bin\Debug\CNPOPSOFT.Controls.dll
+E:\down5\loading\LoadingCircle\bin\Debug\CNPOPSOFT.Controls.pdb
+E:\down5\loading\LoadingCircle\obj\Debug\CNPOPSOFT.Controls.csprojResolveAssemblyReference.cache
+E:\down5\loading\LoadingCircle\obj\Debug\CNPOPSOFT.Controls.csproj.CoreCompileInputs.cache
+E:\down5\loading\LoadingCircle\obj\Debug\CNPOPSOFT.Controls.dll
+E:\down5\loading\LoadingCircle\obj\Debug\CNPOPSOFT.Controls.pdb
